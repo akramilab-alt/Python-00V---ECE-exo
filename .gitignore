@@ -6,10 +6,5 @@ __pycache__/
 dist/
 build/
 *.egg-info/
+*.db
 .DS_Store
-
-# Files written by the side examples
-B*/side/output/
-
-# Written by the side examples
-B5/side/notes.json
